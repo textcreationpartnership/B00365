@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons ordinarie, or Euery man in his humour. To a pleasant new tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628-1929?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00365</idno>
+            <idno type="STC">STC 16758</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[212]</idno>
+            <idno type="EEBO-CITATION">99892293</idno>
+            <idno type="PROQUEST">ocm99892293</idno>
+            <idno type="VID">183031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183031)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[114])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons ordinarie, or Euery man in his humour. To a pleasant new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>By the assignes of Thomas Symcocke.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1628 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Through the Royall Exchainge as I walked ..."</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcut illustration at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="212" facs="tcp:183031:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>Londons Ordinarie, Or euery man in his humour.</head>
+            <opener>To a pleaſant new Tune.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THrough the Royall Exchainge as I walked,</l>
+                  <l>Where Gallants in ſattin doe ſhine:</l>
+                  <l>At midſt of the day they parted away</l>
+                  <l>To ſeauerall places to dine.</l>
+               </lg>
+               <lg>
+                  <l>The Gentrie went to the Kings head,</l>
+                  <l>The Nobls vnto the Crowne:</l>
+                  <l>The Knights went to the Golden Fléece,</l>
+                  <l>And the Plough men to the Clowne.</l>
+               </lg>
+               <lg>
+                  <l>The Cleargie will dine at the Miter,</l>
+                  <l>The Vintners at the thrée Tunnes:</l>
+                  <l>The Vſurers to the Deuill will goe</l>
+                  <l>And the Fryers to the Nunnes.</l>
+               </lg>
+               <lg>
+                  <l>The Ladyes will dine at the Feathers</l>
+                  <l>The Globe no Captaine will ſcorne:</l>
+                  <l>The Hunts men will goe to the Gray hound be<g ref="char:EOLhyphen"/>low</l>
+                  <l>And ſome Townes men to the Horne.</l>
+               </lg>
+               <lg>
+                  <l>The Plummers will dine at the Fountaine,</l>
+                  <l>The Cookes at the holly Lambe:</l>
+                  <l>The Drunkerds by noone to the Man in the Moon,</l>
+                  <l>And the Cuckolds to the Ramme.</l>
+               </lg>
+               <lg>
+                  <l>The Roarers will dine at the Lyon.</l>
+                  <l>The Water men at the old Swan:</l>
+                  <l>And Bawdes will to the Negro goe,</l>
+                  <l>And Whores to the naked Man.</l>
+               </lg>
+               <lg>
+                  <l>The Kéepers will to the white Hart,</l>
+                  <l>The Marchants vnto thn Shippe:</l>
+                  <l>The Beggers they muſt take their way</l>
+                  <l>To the Egge ſhell and the Whippe.</l>
+               </lg>
+               <lg>
+                  <l>The Farryers will to the Horſe,</l>
+                  <l>The Blacke ſmith vnto the Locke:</l>
+                  <l>The Butchers vnto the Bull will goe</l>
+                  <l>And the Carmen to Bridewll docke.</l>
+               </lg>
+               <lg>
+                  <l>The Fiſh mongers vnto the Dolphin,</l>
+                  <l>The Barbers to the Cheat loafe:</l>
+                  <l>The Turners vnto the Ladle will goe</l>
+                  <l>Where they may merrily quaffe.</l>
+               </lg>
+               <lg>
+                  <l>The Taylors will dine at the Shéeres,</l>
+                  <l>The Shooe makers will to the Boote:</l>
+                  <l>The Welſhmen they will take their way</l>
+                  <l>And dine at the ſigne of the Gote.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="213" facs="tcp:183031:1"/>
+               <!-- PDF PAGE 14 -->
+               <head>The Second part.</head>
+               <opener>To the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THe Hoſiers will dine at the Legge,</l>
+                  <l>The drapers at the ſigne of the Bruſh:</l>
+                  <l>The Fletchers to <hi>Rodin hood</hi> will goe</l>
+                  <l>And the Spendthrift to Beggers Buſh:</l>
+               </lg>
+               <lg>
+                  <l>The Pewterers to the Quarte pot,</l>
+                  <l>The Coopers will dine at the Hoope:</l>
+                  <l>The Coblers to the Laſt will goe</l>
+                  <l>And the Barge men to the Scoope.</l>
+               </lg>
+               <lg>
+                  <l>The Carpenters will to the Axe,</l>
+                  <l>The Coliers will dine at the Sacke:</l>
+                  <l>Your Fruterer he to the Cherry trée</l>
+                  <l>Good fellowes no liquor will lacke.</l>
+               </lg>
+               <lg>
+                  <l>The Gold ſmith will to the thrée Cups,</l>
+                  <l>For money they hold it as droſſe:</l>
+                  <l>Your Puritan to the Pewter can</l>
+                  <l>And your Papiſts to the Croſſe.</l>
+               </lg>
+               <lg>
+                  <l>The Weauers will dine at the Shuttele,</l>
+                  <l>The Glouers will vnto the Gloue:</l>
+                  <l>The Maydens all to the Mayden head</l>
+                  <l>And true Louers vnto the Doue.</l>
+               </lg>
+               <lg>
+                  <l>The Sadlers will dine at the Saddle,</l>
+                  <l>The Painters will to the greene Dragon:</l>
+                  <l>The Dutchmen will goe to the Froe,</l>
+                  <l>Where each man will drinke his Flagon.</l>
+               </lg>
+               <lg>
+                  <l>The Chandlers will dine at the Skales,</l>
+                  <l>The Salters at the ſigne of the Bagge:</l>
+                  <l>The Porters take paine at the Labour in vaine</l>
+                  <l>And the Horſe courſer to the white Nagge.</l>
+               </lg>
+               <lg>
+                  <l>Thus euery man in his humour,</l>
+                  <l>That comes from the North or the South:</l>
+                  <l>But he that hath no money in his purſe,</l>
+                  <l>May dine at the ſine of the Mouth,</l>
+               </lg>
+               <lg>
+                  <l>The Swaggerers will dine at the Fencers,</l>
+                  <l>But thoſe that haue loſt their wits:</l>
+                  <l>With Bedlam Tom let that be their home,</l>
+                  <l>And the Drumme the drummers beſt fits.</l>
+               </lg>
+               <lg>
+                  <l>The Cheter will dine at the Checker,</l>
+                  <l>The Picke pockets in a blind Ale houſe:</l>
+                  <l>Tel on and tride then vp Holborne they ride</l>
+                  <l>And they their end at the Gallowes.</l>
+               </lg>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London by the Aſſignes of Thomas Symcocke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
